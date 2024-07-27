@@ -1,0 +1,18 @@
+features depending positively on label : - 
+
+URLSimilarityIndex            0.863846
+URL                           0.812641
+HasSocialNet                  0.777756
+HasCopyrightInfo              0.738494
+HasDescription                0.685045
+IsHTTPS                       0.614960
+
+features depending negatively on label : - 
+
+URLLength                    -0.238626
+NoOfLettersInURL             -0.258596
+DomainLength                 -0.285115
+LetterRatioInURL             -0.367976
+NoOfOtherSpecialCharsInURL   -0.377710
+DegitRatioInURL              -0.436415
+SpacialCharRatioInURL        -0.534179

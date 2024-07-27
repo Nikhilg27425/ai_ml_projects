@@ -1,0 +1,6 @@
+1) random forest model -> mse: 5.572894923430677e-07
+
+2) linear regression -> mse:0.0012192778429384596
+
+
+3) decision tree -> mse: 0
